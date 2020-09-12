@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 👨‍💻 All of my projects are available at [https://leovaldez42.github.io/portfolio/](https://leovaldez42.github.io/portfolio/)
+- 👨‍💻 My personal website is on [https://leovaldez42.github.io/portfolio/](https://leovaldez42.github.io/portfolio/)
 
 - 📝 I regulary write articles on [https://leovaldez42.blogspot.com/](https://leovaldez42.blogspot.com/)
 
