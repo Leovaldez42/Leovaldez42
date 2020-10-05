@@ -7,7 +7,7 @@
 
 - 📝 I regulary write articles on [https://leovaldez42.blogspot.com/](https://leovaldez42.blogspot.com/)
 
-- 💬 Ask me about **Android Studio,Node(Express), MongoDB**
+- 💬 Ask me about **Android Studio, Firebase, React**
 
 - 📫 How to reach me **ghsharma_b18@et.vjti.ac.in**
 
