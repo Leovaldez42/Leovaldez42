@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">I like pressing buttons on my keyboard until I make something that amazes me.</h3>
 
-- 🌱 I’m currently learning **ML**
-
 - 👨‍💻 My personal website is on [https://leovaldez42.github.io/portfolio/](https://leovaldez42.github.io/portfolio/)
 
 - 📝 I regulary write articles on [https://leovaldez42.blogspot.com/](https://leovaldez42.blogspot.com/)
